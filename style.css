@@ -1,0 +1,128 @@
+.logo{
+    width: 250px;
+    padding: 10%;
+    margin-left: -10px;
+    
+    }
+.navbar{
+        background-color: yellow;
+        
+    }
+
+.container-fluid{
+    background-color: black;
+}
+
+
+.corpo{
+    background-color: black;
+}
+
+.nav-link{
+    border: solid black
+}
+
+.corpo_section{
+    margin-left: 1%;
+}
+
+.conteudo{
+    display: table;
+}
+
+.conteudo2{
+    display: table;
+}
+
+.about-grime{
+    margin-left: 1%;
+    margin-top: 3%;
+}
+
+
+
+.imagem-febem{
+    width: 30%;
+    display: table-cell;
+    float: left;
+}
+
+.textoFebem{
+    display: table-cell;
+    color: white;
+    float: left;
+    margin-top: 2%;
+    margin-left: 1%;
+}
+
+.biografiaFebem{
+    display: inline-block;
+    color: white;
+    width: 30%;
+    margin-left: 1%;
+    margin-top: 1%;
+}
+
+.titulo{
+    border: solid yellow;
+    color: whitesmoke;
+    font-size: 30px;
+    padding-bottom: 8px;
+    padding-top: 8px;
+    font-family: cursive;
+}
+
+.imagem-fleezus{
+    width: 30%;
+    display: table-cell;
+    float: left;
+    margin-top: 70px;
+    margin-left: 8%;
+}
+
+.textoFleezus{
+    display: table-cell;
+    color: white;
+    float: left;
+    margin-top: 6%;
+    margin-left: 1%;
+
+}
+
+.biografiaFleezus{
+    color:white;
+    width: 30%;
+    display: inline-block;
+    margin-top: 5%;
+    margin-left: 1%
+}
+
+.brimedisplay{
+    margin-top: -12%;
+}
+
+.imagem-leall{
+    margin-top: 3%;
+    margin-left: 15%;
+    display: table-cell;
+    float: left;
+}
+
+.textoLeall{
+    display: table-cell;
+    float: left;
+    color: white;
+    margin-top: 4%;
+    margin-left: 1%;
+}
+
+.biografiaLeall{
+    display: inline-block;
+    color: white;
+    width: 30%;
+    margin-top: 3%;
+    margin-left: 1%;
+}
+    
+
+    
